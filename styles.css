@@ -170,7 +170,7 @@ body {
 
 .button:hover {
     background-color: var(--heading-color);
-    color: white;
+    color: whitesmoke;
 }
 
 
